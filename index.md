@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Javascript tutorials
 
 You can use the [editor on GitHub](https://github.com/pradeep538/knowledgebase/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
